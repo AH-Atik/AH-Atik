@@ -8,7 +8,7 @@
     <div class="alert alert-primary" role="alert">
   A simple primary alert—check it out!
 </div>
-<button style="background-color=red">Primary</button>
+<button style="color:red;">Primary</button>
 
 </body>
 </html>
