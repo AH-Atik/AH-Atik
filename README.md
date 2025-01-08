@@ -1,4 +1,4 @@
-![Header Image](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)
+(https://media.licdn.com/dms/image/v2/D5616AQE6p2n65q-Adw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731064965039?e=1741824000&v=beta&t=XhGPjAkQ9KD6CtbBAORBGFoNXvdiZshSf3fIrjorBQY)
 
 # 👋 Hello, I'm **Atiqul Haque**  
 
@@ -20,8 +20,8 @@ Hi! I'm a passionate **full-stack web developer** with over 5+ years of experien
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AH-Atik&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AH-Atik&theme=radical" alt="GitHub Streak" height="165">
 </p>
 
 ---
@@ -57,9 +57,9 @@ Hi! I'm a passionate **full-stack web developer** with over 5+ years of experien
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-send-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://atik24.com"><img src="https://img.shields.io/badge/Portfolio-visit-blue?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/ahatik"><img src="https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:atiqulhaque01@gmail.com"><img src="https://img.shields.io/badge/Email-send-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
