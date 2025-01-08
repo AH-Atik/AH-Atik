@@ -19,14 +19,7 @@ web applications.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AH-Atik&show_icons=true&theme=radical"
-        alt="GitHub Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AH-Atik&theme=radical" alt="GitHub Streak"
-        height="165">
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AH-Atik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahatik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ah.atik.146)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](atik24.com) 
 
 ---
 
