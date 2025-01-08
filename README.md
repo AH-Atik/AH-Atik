@@ -16,6 +16,16 @@ Hi! I'm a passionate **full-stack web developer** with over 5+ years of experien
 web applications.
 💡 My mission? To create elegant, efficient, and scalable software solutions!
 
+---
+
+- 🔭 I’m currently working on Car Rental App. 
+- 🌱 I’m currently learning Python / Flutter 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about PHP / Laravel / MySql 
+- 📫 How to reach me: atiqulhaque01@gmail.com
+
+---
+
 🛠️ **Key Skills:**
 - Proficient in: **React, Vue, PHP (Laravel), MySQL, MongoDB**
 - Front-end wizardry with: **HTML5, CSS3, Bootstrap, Tailwind, JavaScript (ES6)**
@@ -27,13 +37,6 @@ web applications.
 
 ---
 
-- 🔭 I’m currently working on Car Rental App. 
-- 🌱 I’m currently learning Python / Flutter 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about PHP / Laravel / MySql 
-- 📫 How to reach me: atiqulhaque01@gmail.com
-
----
 
 ## 🛠️ My Toolbox
 
