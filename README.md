@@ -7,6 +7,10 @@ Image](https://media.licdn.com/dms/image/v2/D5616AQE6p2n65q-Adw/profile-displayb
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AH-Atik)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🔥 About Me
 Hi! I'm a passionate **full-stack web developer** with over 5+ years of experience in designing and developing dynamic
 web applications.
