@@ -9,6 +9,7 @@
   A simple primary alert—check it out!
 </div>
 <button style="color:red;">Primary</button>
+<p style="color:red;">Test</p>p
 
 </body>
 </html>
